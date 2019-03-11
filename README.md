@@ -15,3 +15,7 @@ After filling out a survey, this friend-matching program will pair you with anot
 - Express.js
 - HTML
 
+TODO's:
+
+- Add CSS to pages
+- Add images and step-by-step of the app in the readme
